@@ -1,0 +1,91 @@
+{
+  "id": 10001,
+  "name": "فولاد",
+  "EndPrice": 8450,
+  "TransferVolume": 421060636,
+  "currentPrice": 8550,
+  "firstPrice": 8760,
+  "highestPrice": 8950,
+  "lowestPrice": 8510,
+  "highestRange": 9070,
+  "lowestRange": 7890,
+  "buyOrders" : [
+    {
+      "count": 27,
+      "volume": 829457,
+      "price": 8480
+    },
+    {
+      "count": 11,
+      "volume": 486221,
+      "price": 8470
+    },
+    {
+      "count": 45,
+      "volume": 985246,
+      "price": 8460
+    },
+    {
+      "count": 4,
+      "volume": 124563,
+      "price": 8350
+    },
+    {
+      "count": 18,
+      "volume": 641120,
+      "price": 8200
+    }
+  ],
+  "sellOrders": [
+    {
+      "count": 3,
+      "volume": 91456,
+      "price": 8490
+    },
+    {
+      "count": 11,
+      "volume": 486221,
+      "price": 8500
+    },
+    {
+      "count": 31,
+      "volume": 625246,
+      "price": 8520
+    },
+    {
+      "count": 65,
+      "volume": 804363,
+      "price": 8590
+    },
+    {
+      "count": 24,
+      "volume": 441120,
+      "price": 8680
+    }
+  ],
+  "volumeValue": 3849275460000,
+  "fullName": "فولاد مبارکه اصفهان",
+  "marketValue": 4478500000000000,
+  "marketType": "بازار اول (تابلوی اصلی) بورس",
+  "baseVolume": 16129032,
+  "yesterdayPrice": 8320,
+  "tomorrowLowestRange": 7859,
+  "tomorrowHighestRange": 9041,
+  "weekLowestRange": 7250,
+  "weekHighestRange": 8510,
+  "yearLowestRange": 4214,
+  "yearHighestRange": 12890,
+  "orderRange": 200000,
+  "monthlyReturn": 39.47,
+  "threeMonthReturn": 72.29,
+  "priceChange": 10,
+  "volumeChange": 1,
+  "naturalBuyVolume": 282341617,
+  "naturalBuyCount": 9038,
+  "naturalSellVolume": 354381452,
+  "naturalSellCount": 8117,
+  "legalBuyVolume": 191351456,
+  "legalBuyCount": 55,
+  "legalSellVolume": 119311450,
+  "legalSellCount": 43
+}
